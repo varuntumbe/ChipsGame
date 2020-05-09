@@ -177,7 +177,7 @@ public :
 				else
 				if(choice=="both")
 				{
-					if((r-1)>=0&&(col-1)>=0)
+					if((row-1)>=0&&(col-1)>=0)
 					{
 						break;
 					}
